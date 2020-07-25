@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ## Link
 - [備忘録(はてなブログ)](https://idat-50me.hatenadiary.jp/)
-- [C++ライブラリ(GitHub)](https://github.com/idat50me/cpp_lib)
+- [C++ライブラリ(oj-verify, GitHub)](https://idat50me.github.io/cpp_lib/)
