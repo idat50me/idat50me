@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 ## Kyopro
 [![idat_50me](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fidat_50me)](https://atcoder.jp/users/idat_50me)
 [![idat_50me](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Fidat_50me)](https://codeforces.com/profile/idat_50me)
+
+[![GitHub Pages](https://img.shields.io/static/v1?label=GitHub+Pages&message=cpp_lib+&color=brightgreen&logo=github)](https://idat50me.github.io/cpp_lib/)
